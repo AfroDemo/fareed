@@ -1,4 +1,4 @@
-
+import ndepo from "./asset/ndepo.jpeg";
 
 export const projects = [
     {
@@ -6,7 +6,7 @@ export const projects = [
       subtitle: "Cross Up",
       description:
         "I love nature also doing Wildlife Photography",
-      image: "./asset/ndepo.jpeg",
+      image: ndepo,
       link: "https://reactbootcamp.com",
     },
     {
@@ -22,7 +22,7 @@ export const projects = [
       subtitle: "React and Firebase",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./asset/ndepo.jpeg",
+        image: "./asset/ndepo.jpg",
       link: "https://jsbootcamp.com",
     },
     {

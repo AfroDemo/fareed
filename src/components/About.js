@@ -10,7 +10,9 @@ import React from 'react';
               <br className="hidden lg:inline-block" />I love Photography and Cinematography.
             </h1>
             <p className="mb-8 leading-relaxed">
-              Taking best pics does not depends only on how good your camera is, but how do you feel the flow of your environment that you intend to shoot. <strong>Nature is my biggest Weapon.</strong>
+              Taking best pics does not depends only on how good your camera is, 
+              but how do you feel the flow of your environment that you intend to shoot. 
+              <strong>Nature is my biggest Weapon.</strong>
             </p>
             <div className="flex justify-center">
               <a
@@ -29,7 +31,7 @@ import React from 'react';
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="../asset/1.jpg"
+              src={require("../asset/mimi.jpg")}
             />
           </div>
         </div>
