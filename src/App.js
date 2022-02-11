@@ -1,4 +1,3 @@
-import react from 'react';
 import './index.css'
 import Navbar from './components/Navbar';
 import About from './components/About';
@@ -14,13 +13,12 @@ function App() {
       <Navbar/>
       <About/>
       <Projects/>
-      <Contacts/>
       <Footer/>
-      {/* <About/>
+      <About/>
       <Projects/>
       <Skills/>
       <Testimonials/>
-      <Contacts/> */}
+      <Contacts/>
     </main>
   );
 }
