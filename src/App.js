@@ -13,10 +13,10 @@ function App() {
       <Navbar/>
       <About/>
       <Projects/>
+      <Contacts/>
       <Footer/>
       {/* <Skills/>
       <Testimonials/> */}
-      <Contacts/>
     </main>
   );
 }
