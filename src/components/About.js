@@ -1,4 +1,5 @@
 import React from 'react';
+import mimi from '../asset/mimi.jpg';
 
  function About() {
     return (
@@ -31,7 +32,7 @@ import React from 'react';
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src={require("../asset/mimi.jpg")}
+              src={mimi}
             />
           </div>
         </div>
